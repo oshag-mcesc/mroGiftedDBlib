@@ -109,7 +109,7 @@ The library includes comprehensive error handling and logging:
 
 This library depends on:
 - **mroBBLog** - For logging functionality (automatically included)
-- ScrptID for library: 1RHMscVSeGBkUHNw3_Qk929lDRC21Uw5_5e8G5j9a_CXKiwzoOLL-uPEM
+- ScrptID for mroBBLog: 1RHMscVSeGBkUHNw3_Qk929lDRC21Uw5_5e8G5j9a_CXKiwzoOLL-uPEM
 
 ## Example Workflow
 
